@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Apr 26 00:09:07 PET 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\angel\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\11.0.0-M19\\tomcat-jasper-11.0.0-M19.jar=WEB-INF/lib/tomcat-jasper-11.0.0-M19.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\angel\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper-el\\11.0.0-M19\\tomcat-jasper-el-11.0.0-M19.jar=WEB-INF/lib/tomcat-jasper-el-11.0.0-M19.jar
